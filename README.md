@@ -19,7 +19,7 @@ Agregador de links pessoais criado durante o curso **Discover da Rocketseat**.
 
 - Lista de links pessoais (redes sociais, projetos, etc.)
 - Layout responsivo e leve
-- Desenvolvido durante o curso **Discovery da Rocketseat**
+- Desenvolvido durante o curso **Discover da Rocketseat**
 
 ---
 
