@@ -1,6 +1,6 @@
 # Dev Links - Agregador de Links 🔗
 
-Agregador de links pessoais criado durante o curso **Discovery da Rocketseat**.
+Agregador de links pessoais criado durante o curso **Discover da Rocketseat**.
 
 [🔗 Acesse o site aqui!](https://lucianoquintela.github.io/Linktree/)
 
