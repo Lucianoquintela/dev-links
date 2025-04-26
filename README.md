@@ -2,7 +2,7 @@
 
 Agregador de links pessoais criado durante o curso **Discover da Rocketseat**.
 
-[🔗 Acesse o site aqui!](https://lucianoquintela.github.io/Linktree/)
+[🔗 Acesse o site aqui!](https://lucianoquintela.github.io/dev-links/)
 
 ---
 
